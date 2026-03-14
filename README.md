@@ -91,13 +91,6 @@ http://127.0.0.1:8000/
 
 You can now add, update, and delete your tasks.
 
----
-
-## 📸 Screenshots
-
-(Add your project screenshots here)
-
----
 
 ## 🤝 Contributing
 
