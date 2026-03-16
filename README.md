@@ -91,6 +91,10 @@ http://127.0.0.1:8000/
 
 You can now add, update, and delete your tasks.
 
+## Screenshot
+<img width="1906" height="442" alt="Screenshot 2026-03-14 200335" src="https://github.com/user-attachments/assets/2b735dc8-78eb-47a5-bc23-da26640e3bec" />
+
+
 
 ## 🤝 Contributing
 
